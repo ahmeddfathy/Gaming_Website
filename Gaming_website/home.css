@@ -1,0 +1,54 @@
+.f-card{
+    height: 96vh;
+    /* max-height: fit-content; */
+
+    border-radius: 30px;
+    background-color: 
+    #24282B;
+    border: 5px solid rgb(45,49,52);
+    padding: 0px;
+
+ 
+}
+body{
+    caret-color: transparent;
+}
+
+.s-card{
+    min-height: 96vh;
+    max-height: fit-content;
+   
+    border-radius: 30px;
+    position: relative;
+    /* background-color: #313639; */
+   
+
+    border: 5px solid rgb(45,49,52);
+}
+
+.card-bottom{
+    min-height: 55.8%;
+    max-height: fit-content;
+   
+    background-image: linear-gradient(135deg ,  rgba(255,255,255,0.1),rgba(255,255,255,0)) ;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter:blur(10px) ;
+    border: 1px solid rgba(255,255,255,0.18);
+    box-shadow: 0 8px 32px 0 rgba(0,0,0,0.37);
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+    border-radius: 20px;
+    
+}
+
+.fig{
+    height: 48vh; 
+}
+.first-img{
+    height: 75vh;
+    position: relative;
+    top: -35px;
+    bottom: -120px;
+}
+
